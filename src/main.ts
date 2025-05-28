@@ -24,6 +24,8 @@ function noSearchDefaultPageRender() {
         <a href="https://github.com/ConwayTech-Dev/Unduck-Bing" target="_blank">github</a>
         •
         <a href="https://youtu.be/_DnNzRaBWUU" target="_blank">how it works</a>
+        •
+        created by <a href="https://t3.gg/">theo</a>, forked by <a href="https://discord.com/users/773293823294963753">me</a>
       </footer>
     </div>
   `;
