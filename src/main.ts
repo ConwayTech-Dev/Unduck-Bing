@@ -7,7 +7,7 @@ function noSearchDefaultPageRender() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>unduck, but bing is the default bang</h1>
-        <p>unduck, but it uses bing, instead of google, as the default bang. enables <a href="https://duckduckgo.com/bang.html" target="_blank">every single duckduckgo bang. useful for farming microsoft rewards points while still capitalizing on productivity. to get started, set this url to be your browser's default search engine.</a></p>
+        <p>enables <a href="https://duckduckgo.com/bang.html" target="_blank">every single duckduckgo bang</a>. useful for farming microsoft rewards points while still capitalizing on productivity. to get started, set the following url to be your browser's default search engine.</a></p>
         <div class="url-container"> 
           <input 
             type="text" 
